@@ -14,7 +14,7 @@ myMnemonic = 'program cram lunch mail clump kebab paela switcheo make people ric
 depositAddress = '0x1577af8a039414df5ade74453fac4a0a06d1e6ef' #Wallet Address you want to send tokens (example here: ERC-20/BEP-20 address)
 tokenDenom = 'busd1' #Quantity to withdraw (example here: 'busd1' = BUSD (BEP-20) on tokenlist.txt)
 quantityWithdraw = '8.0' #Quantity to withdraw (example here: '8.0' = 8$)
-blockchainType = 'BUSD' #Blockchain type (example here: '8.0' = 8$)
+blockchainType = 'BUSD' #Blockchain type
 
 # CONSTANTS
 # ------------------------------------------------------------------------------
