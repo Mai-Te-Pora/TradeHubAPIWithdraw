@@ -15,6 +15,6 @@ myMnemonic = 'program cram lunch mail clump kebab paela switcheo make people ric
 depositAddress = '0x1577af8a039414df5ade74453fac4a0a06d1e6ef' #Wallet Address you want to send tokens (example here: ERC-20/BEP-20 address)<br>
 tokenDenom = 'busd1' #Quantity to withdraw (example here: 'busd1' = BUSD (BEP-20) on tokenlist.txt)<br>
 quantityWithdraw = '8.0' #Quantity to withdraw (example here: '8.0' = 8$)<br>
-blockchainType = 'BUSD' #Blockchain ttype (example here: '8.0' = 8$)<br>
+blockchainType = 'BUSD' #Blockchain ttype (example here: BUSD (BEP-20) on tokenlist.tx)<br>
 <br>
 tokenlist.txt = https://switcheo.org/tokens?net=main<br>
