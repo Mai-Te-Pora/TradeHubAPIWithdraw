@@ -1,5 +1,5 @@
 # TradeHubAPIWithdraw<br>
-Simple Python Script, using tradehub-python, to withdraw tokens from Tradehub wallets. (In case you'll can't access to Demex UI)<br>
+Simple Python Script, using tradehub-python, to withdraw tokens from Tradehub wallets. (In case you can't access to Demex UI)<br>
 
 Python 3.8+ required. (***BSC CHAIN ISNT SUPPORTED ATM, ONLY NEO AND ETH CHAINS)<br>
 
